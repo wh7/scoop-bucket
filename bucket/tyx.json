@@ -1,12 +1,12 @@
 {
-    "version": "0.1.13",
+    "version": "0.1.14",
     "description": "A LyX-like experience rewritten for Typst and the modern era",
     "homepage": "https://tyx-editor.com/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tyx-editor/TyX/releases/download/v0.1.13/TyX_0.1.13_x64-setup.exe#/dl.7z",
-            "hash": "252b43e439a5c8f2eb5852681346adca180ec509ccda701cc34e271c8ac47553"
+            "url": "https://github.com/tyx-editor/TyX/releases/download/v0.1.14/TyX_0.1.14_x64-setup.exe#/dl.7z",
+            "hash": "f2ad04e08a85604dd8154cb55bea496c3a35bff6ad5659741cc10f52d552bbdf"
         }
     },
     "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\uninstall.exe\" -Force -Recurse",
