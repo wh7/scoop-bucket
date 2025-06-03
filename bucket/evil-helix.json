@@ -21,7 +21,8 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/usagi-flow/evil-helix"
+        "github": "https://github.com/usagi-flow/evil-helix",
+        "regex": "/releases/tag/release-([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
