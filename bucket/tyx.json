@@ -1,5 +1,5 @@
 {
-    "version": "0.1.17",
+   "version": "0.1.17",
     "description": "A LyX-like experience rewritten for Typst and the modern era",
     "homepage": "https://tyx-editor.com/",
     "license": "MIT",
